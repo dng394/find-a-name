@@ -1,6 +1,6 @@
-# My Cool App
+# Find A Name
 
-A mini project to learn more about React.
+An app that lets you find a unique name for your next project.
 
 ## Resources
 
