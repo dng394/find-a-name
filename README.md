@@ -1,4 +1,4 @@
-# My Cool App
+# Find A Name
 
 A mini project to learn more about React.
 
