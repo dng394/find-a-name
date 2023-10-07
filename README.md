@@ -2,7 +2,9 @@
 
 An app that lets you find a unique name for your next project.
 
-![find-a-name](https://github.com/dng394/find-a-name/assets/139503541/e6c0df91-7aed-4324-a42d-fff693196a3d)
+Check it out in the link below:
+
+https://dng394.github.io/find-a-name/
 
 
 ## Resources
