@@ -34,8 +34,9 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 
-### Deployment
+# Deployment
 
 Deployed with Github Pages. See the following links for more information:
-https://www.npmjs.com/package/gh-pages
-https://docs.github.com/en/pages
+
+- https://www.npmjs.com/package/gh-pages
+- https://docs.github.com/en/pages
